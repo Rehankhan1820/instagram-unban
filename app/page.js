@@ -410,7 +410,7 @@ export default function RecoveryPage() {
                 <div className="mt-4 flex justify-center">
                   <div className="relative p-2 bg-white/5 rounded-xl border border-white/10 shadow-[0_0_40px_rgba(59,130,246,0.4)] hover:shadow-[0_0_60px_rgba(59,130,246,0.7)] transition-all duration-500">
                     <img
-                      src="/scanner.png"
+                      src="/scanner.jpeg"
                       alt="UPI QR Code"
                       className="w-40 h-40 object-contain rounded-lg"
                       onError={(e) => {
